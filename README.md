@@ -17,6 +17,3 @@ ___
 ___
 ### Estadísticas de GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJimenez&show_icons=true&theme=tokyonight)
-
-___
-
