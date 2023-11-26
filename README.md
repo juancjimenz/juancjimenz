@@ -1,7 +1,7 @@
 # Hola 👋🏻!! 
 ## Soy Juan jiménez, Bienvenido a mi perfil profesional   
 💻 Un desarrollador Backend cautivado por el mundo de las TI.  
-👩‍💻 Con habilidades en tegnologias como Java, Git, GitHub, MySQL, Mongo DB y API REST.  
+👩‍💻 Con habilidades en tegnologias como ![](https://img.shields.io/badge/Java-blue), ![](https://img.shields.io/badge/Git-blue), GitHub, MySQL, Mongo DB y API REST.  
 🤝 Con una buena capacidad de escucha y disponibilidad para el trabajo en equipo.  
 ✨ Apasionado por el aprendizaje y abierto a nuevos conocimientos que puedan llevar me aun nivel más alto.
 
@@ -19,4 +19,4 @@ ___
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJimenez&show_icons=true&theme=tokyonight)
 
 ___
-![](https://img.shields.io/badge/valor1-blue)
+
