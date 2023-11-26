@@ -1,7 +1,7 @@
 # Hola 👋🏻!! 
 ## Soy Juan jiménez, Bienvenido a mi perfil profesional   
 💻 Un desarrollador Backend cautivado por el mundo de las TI.  
-👩‍💻 Con habilidades en tegnologias como: ![](https://img.shields.io/badge/Java-blue), ![](https://img.shields.io/badge/Git-blue), ![](https://img.shields.io/badge/GitHub-blue), ![](https://img.shields.io/badge/MySQl-blue), ![](https://img.shields.io/badge/Mongo_DB-blue) y ![](https://img.shields.io/badge/API_REST-blue).  
+👩‍💻 Con habilidades en tegnologias como: ![](https://img.shields.io/badge/Java-red), ![](https://img.shields.io/badge/Git-black), ![](https://img.shields.io/badge/GitHub-black), ![](https://img.shields.io/badge/MySQl-blue), ![](https://img.shields.io/badge/Mongo_DB-green) y ![](https://img.shields.io/badge/API_REST-blue).  
 🤝 Con una buena capacidad de escucha y disponibilidad para el trabajo en equipo.  
 ✨ Apasionado por el aprendizaje y abierto a nuevos conocimientos que puedan llevar me aun nivel más alto.
 
