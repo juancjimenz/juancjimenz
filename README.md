@@ -5,9 +5,9 @@
 🤝 Con una buena capacidad de escucha y disponibilidad para el trabajo en equipo.  
 ✨ Apasionado por el aprendizaje y abierto a nuevos conocimientos que puedan llevar me aun nivel más alto.
 
-====
+___
 > "El mejor de los guerreros nada tiene que ver con la guerra, ni de pelear contra otros; su lucha debe ser interna, porque su peor enemigo es su propia mente." —Sun Tzu.
-=====
+___
 
 ## Conéctate conmigo  
 [<img width="38" height="38" src="https://img.icons8.com/plasticine/38/gmail-new.png" alt="gmail-new"/>](mailto:juancamilojimenezj@gmail.com)
