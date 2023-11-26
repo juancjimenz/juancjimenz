@@ -9,4 +9,4 @@
 
 ## Conéctate conmigo  
 [enlace en línea](http://www.limni.net)
-[<img width="20" height="20" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/juan-camilo-jim%C3%A9nez-j-backend/)
+[<img width="35" height="35" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/juan-camilo-jim%C3%A9nez-j-backend/)
