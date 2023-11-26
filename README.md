@@ -19,4 +19,4 @@ ___
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJimenez&show_icons=true&theme=tokyonight)
 
 ___
-![Etiqueta1](https://img.shields.io/badge/etiqueta1-valor1-blue)
+![Etiqueta1](https://img.shields.io/badge/etiqueta1-valor1-blue)(https://img.shields.io/badge/etiqueta1-valor1-blue)
