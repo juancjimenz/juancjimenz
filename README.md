@@ -8,5 +8,5 @@
 > "El mejor de los guerreros nada tiene que ver con la guerra, ni de pelear contra otros; su lucha debe ser interna, porque su peor enemigo es su propia mente." —Sun Tzu.
 
 ## Conéctate conmigo  
-[enlace en línea](http://www.limni.net)
+[<img width="38" height="38" src="https://img.icons8.com/plasticine/38/gmail-new.png" alt="gmail-new"/>](juancamilojimenezj@gmail.com)
 [<img width="35" height="35" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/juan-camilo-jim%C3%A9nez-j-backend/)
