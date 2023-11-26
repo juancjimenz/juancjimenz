@@ -19,5 +19,4 @@ ___
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJimenez&show_icons=true&theme=tokyonight)
 
 ___
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Etiqueta1](https://img.shields.io/badge/etiqueta1-valor1-blue)
