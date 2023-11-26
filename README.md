@@ -10,4 +10,4 @@
 ## Conéctate conmigo  
 [enlace en línea](http://www.limni.net)
 
-![icons8-gmail-48](https://github.com/juancjimenz/juancjimenz/assets/91756353/2aebe418-5f43-4b5d-a624-07b1aa0ebb33)
+[<img width="30" height="30" src="https://img.icons8.com/color/30/gmail-new.png" alt="gmail-new"/>](www.google.com)
